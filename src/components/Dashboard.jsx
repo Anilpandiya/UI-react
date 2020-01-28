@@ -1,12 +1,11 @@
 import React from 'react';
 import SidePanel from './SidePanel';
-import UploadFile from './UploadFile';
-import './styles.scss';
+import UploadFileModal from './UploadFileModal';
 
 const Dashboard = () => (
     <div>
          <SidePanel />
-         <UploadFile />
+         <UploadFileModal />
     </div>
     )
 

@@ -1,13 +1,11 @@
 import React from 'react';
-import '../App.css';
 import Dashboard from './Dashboard';
+import '../styles.scss';
 
 function Main() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div>
         <Dashboard />
-      </header>
     </div>
   );
 }

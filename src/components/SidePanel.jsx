@@ -1,8 +1,6 @@
 import React from 'react';
 import { Menu, Sidebar, Dropdown } from 'semantic-ui-react';
 
-import '../App.css';
-
 const dropDownOptions =[
     {
       key: "1",
