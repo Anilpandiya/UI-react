@@ -9,7 +9,7 @@ const UploadFile  = (props) => (
                     { props.fileUploaded ?
                         <Header color="green">
                             <span>
-                                Files uploaded successfully.
+                                Files are uploaded successfully.
                                 <Icon name="thumbs up"></Icon>
                             </span>
                         </Header>
