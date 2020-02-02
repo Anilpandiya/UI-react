@@ -1,11 +1,11 @@
 import React from 'react';
-import UploadFileModal from './UploadFileModal';
+import UploadFileModal from './UploadFile/UploadFileModal';
 
 const Dashboard = () => (
-    <div>
-         <UploadFileModal />
-    </div>
-    )
+  <div>
+    <UploadFileModal />
+  </div>
+)
 
 
 export default Dashboard;

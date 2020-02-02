@@ -1,4 +1,4 @@
-const state =[
+const state = [
     {
         name: "batman-icon.png",
         lastModified: 1558086366455,
